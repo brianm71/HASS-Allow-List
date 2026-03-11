@@ -2,4 +2,3 @@
 @@||segapi.splice.com^
 @@||splice.paramountplus.com^
 @@||splice-media.paramountplus.com^
-@@||trck.ahs.prod-na.turntable.sonic.advertising.amazon.dev^
