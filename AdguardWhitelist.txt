@@ -2,3 +2,4 @@
 @@||segapi.splice.com^
 @@||splice.paramountplus.com^
 @@||splice-media.paramountplus.com^
+@@||launchdarkly.com^
